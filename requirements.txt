@@ -1,0 +1,6 @@
+torch==1.12.1+cu113
+transformers
+sentencepiece
+streamlit
+streamlit_chat
+accelerate
